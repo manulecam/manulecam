@@ -1,14 +1,8 @@
 <h1>Hi there!</h1>
 
-25 años 🤞✨
+I'm learning to get my first job as a developer! 📚
 
-Desarrollador Web 📊
-
-
-En busca de mi primer empleo como desarrollador 💻
-
-
-Aprendiendo y desarrollando nuevas habilidades, para lograr dar mis primeros pasos en el mercado laboral y continuar con mi aprendizaje 📚
+Looking for the opportunity to take my first steps in the web development industry, to do what I'm passionate about and enhance my skills as a dev! 🖥
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manulecam&show_icons=true&theme=cobalt)
 
