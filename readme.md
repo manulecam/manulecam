@@ -1,8 +1,8 @@
 <h1>Hi there! 👨🏻‍💻</h1>
 
-I'm learning to get my first job as a developer! 📚
+📚 My goal? Learn something new every day, to become a great developer.
 
-Looking for the opportunity to take my first steps in the web development industry, to do what I'm passionate about and enhance my skills as a dev 🖥
+🔍 Looking for the opportunity to make my first steps in the Web Development industry, in order to do what I'm passionate about and improve my skills as a dev.
 
 📖 NEVER STOP LEARNING 📖
 
