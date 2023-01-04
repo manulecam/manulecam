@@ -1,8 +1,10 @@
-<h1>Hi there!</h1>
+<h1>Hi there! 👨🏻‍💻</h1>
 
 I'm learning to get my first job as a developer! 📚
 
-Looking for the opportunity to take my first steps in the web development industry, to do what I'm passionate about and enhance my skills as a dev! 🖥
+Looking for the opportunity to take my first steps in the web development industry, to do what I'm passionate about and enhance my skills as a dev 🖥
+
+NEVER STOP LEARNING 📖
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manulecam&show_icons=true&theme=cobalt)
 
