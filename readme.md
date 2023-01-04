@@ -1,8 +1,8 @@
-25 anos 🤞✨
+25 años 🤞✨
 
-Futuro Desarrollador Web 📊
+Desarrollador Web 📊
 
-Aprendiendo y desarrollando nuevas habilidades, para lograr dar mis primeros pasos en la industria del software. 🎮
+En búsqueda de encontrar mi primer empleo como desarrollador. Aprendiendo y desarrollando nuevas habilidades, para lograr dar mis primeros pasos en la industria del software y continuar con mi aprendizaje. 🎮
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manulecam&show_icons=true&theme=cobalt)
 
