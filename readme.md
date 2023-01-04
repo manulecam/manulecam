@@ -1,7 +1,10 @@
 25 años 🤞✨
+
 Desarrollador Web 📊
 
+
 En busca de mi primer empleo como desarrollador 💻
+
 
 Aprendiendo y desarrollando nuevas habilidades, para lograr dar mis primeros pasos en el mercado laboral y continuar con mi aprendizaje 📚
 
