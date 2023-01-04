@@ -2,7 +2,7 @@
 
 Desarrollador Web 📊
 
-En búsqueda de encontrar mi primer empleo como desarrollador. Aprendiendo y desarrollando nuevas habilidades, para lograr dar mis primeros pasos en la industria del software y continuar con mi aprendizaje. 🎮
+En busca de mi primer empleo como desarrollador. Aprendiendo y desarrollando nuevas habilidades, para lograr dar mis primeros pasos en el mercado laboral y continuar con mi aprendizaje. 🎮
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manulecam&show_icons=true&theme=cobalt)
 
