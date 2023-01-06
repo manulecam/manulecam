@@ -1,4 +1,5 @@
-<h1 align="center">Hi there! 👨‍💻</h1>
+<h1 align="center">Hi there!👋🏻</h1>
+<h3 align="center">I'm Manuel, a future Full-Stack developer👨🏻‍💻</h3>
 
 🛠 I'm actually working in my portfolio.
 
