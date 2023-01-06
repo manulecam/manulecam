@@ -1,10 +1,10 @@
-<center><h1>Hi there!</h1></center>
+<h1 align="center">Hi there!</h1>
 
-📚 My goal? Learn something new every day, to become a great developer.
+🛠 I'm actually working in my portfolio.
 
-🔍 I'm actually working in my portfolio.
+📚 My goal? Learn something new every day, to become a **great developer**.
 
-📖 NEVER STOP LEARNING 📖
+📖 **NEVER STOP LEARNING** 📖
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manulecam&show_icons=true&theme=cobalt)
 
