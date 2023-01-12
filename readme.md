@@ -1,5 +1,5 @@
 <h1>Hi there!👋🏻</h1>
-<h3>I'm Manuel, from Argentina 👨🏻‍💻</h3>
+<h3>👨🏻‍💻 I'm Manuel, from Argentina</h3>
 
 - I'm actually working in my portfolio.
 - Learning Full-Stack development on soyHenry.
