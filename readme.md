@@ -1,4 +1,4 @@
-<h1>Hi there!👋🏻</h1>
+<h1>👋🏻 Hello there!</h1>
 <h3>👨🏻‍💻 I'm Manuel, from Argentina</h3>
 
 - I'm actually working in my portfolio.
