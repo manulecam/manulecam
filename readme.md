@@ -2,7 +2,7 @@
 <h3>👨🏻‍💻 I'm Manuel, from Argentina</h3>
 
 - I'm actually working in my portfolio.
-- Learning Full-Stack development in soyHenry.
+- Learning Full-Stack development at soyHenry.
 - #OpenToWork
 
 <h3 align="left">🛠 Languages and Tools</h3>
